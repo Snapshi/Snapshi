@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Snapshi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Sakshi
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning DSA
+- 💞️ I’m looking to collaborate on projects for enhancing my skills
+- 📫 you can contact me on instagram. my instagram handle is Sa__aksha. 
 
 <!---
 Snapshi/Snapshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
